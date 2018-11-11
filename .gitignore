@@ -1,0 +1,12 @@
+#Windows
+Desktop.ini
+
+#Python
+*.pyc
+
+#My configrations
+deploy_key_rsa
+
+#Java
+*.class
+
