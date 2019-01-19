@@ -1,0 +1,2 @@
+100	0.509570	0.344439
+<_io.TextIOWrapper name='<stderr>' mode='w' encoding='utf-8'> report: still alive
